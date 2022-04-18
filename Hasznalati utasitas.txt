@@ -4,7 +4,7 @@ https://github.com/balazs-bekefi/DungeonGame-leadas/tree/main/Telepit%C3%B6k
 -A CypressTeszt forrésfileja.
 https://github.com/balazs-bekefi/DungeonGame-leadas/tree/main/IntegrationTest
 
--Az Database forráskódja.
+-A Database forráskódja.
 https://github.com/balazs-bekefi/DungeonGame-leadas/blob/main/DungeonGameSqlDatabase.sql
 
 -A dokumentáció a DungeonGame dokumentációt megnyitva olvasható.
