@@ -1,14 +1,14 @@
 -A telepítőkben a végleges telepítőfileok találhatók Android és Windows eszközre.
-https://github.com/balazs-bekefi/Dungeon/tree/main/Telepitok
+https://github.com/balazs-bekefi/DungeonGame-leadas/tree/main/Telepit%C3%B6k
 
 -A CypressTeszt forrésfileja.
-https://github.com/balazs-bekefi/Dungeon/blob/main/IntegrationTest.zip
+https://github.com/balazs-bekefi/DungeonGame-leadas/tree/main/IntegrationTest
 
 -Az Database forráskódja.
-https://github.com/balazs-bekefi/Dungeon/blob/main/DungeonGameSqlDatabase.sql
+https://github.com/balazs-bekefi/DungeonGame-leadas/blob/main/DungeonGameSqlDatabase.sql
 
 -A dokumentáció a DungeonGame dokumentációt megnyitva olvasható.
-https://github.com/balazs-bekefi/Dungeon/blob/main/DungeonGame%20dokument%C3%A1ci%C3%B3.pdf
+https://github.com/balazs-bekefi/DungeonGame-leadas/blob/main/DungeonGame%20dokument%C3%A1ci%C3%B3.pdf
 
 -A(z) Unity forrásfileok az Androidos illetve Windowsos összes forrásfilet tartalmazzák.
 A játék windows forrásfileja: https://github.com/balazs-bekefi/Dungeon
